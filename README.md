@@ -2,7 +2,7 @@
 
 > A compact spoken-language-understanding pipeline for predicting **intent labels** and **BIO slot tags** from airline travel queries.
 
-## What This Project Does
+## Project Summary
 
 This project analyzes and models a labelled airline-query dataset where each row contains:
 

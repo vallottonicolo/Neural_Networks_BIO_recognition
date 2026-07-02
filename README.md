@@ -64,13 +64,7 @@ For future inference or handoff, keep `bilstm_crf_bundle.pt`.
 
 ## Reproducing the Pipeline
 
-Use the `applied_data_analysis` conda environment/kernel.
-
-From this folder:
-
-```powershell
-& "$env:USERPROFILE\anaconda3\condabin\conda.bat" run -n applied_data_analysis jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.kernel_name=python3 --ExecutePreprocessor.timeout=-1 Assignment_2_Task_2.ipynb
-```
+Run the notebook 
 
 The notebook now sets a global seed near the top:
 

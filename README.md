@@ -64,7 +64,7 @@ For future inference or handoff, keep `bilstm_crf_bundle.pt`.
 
 ## Reproducing the Pipeline
 
-Run the notebook 
+Run the `Assignment_2_Task_2.ipynb` notebook.
 
 The notebook now sets a global seed near the top:
 
